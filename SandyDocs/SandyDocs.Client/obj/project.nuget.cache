@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "G4y2pk0DZ4w=",
+  "dgSpecHash": "M1c9/ju0wqk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\erics\\Documents\\Sandy\\SandyDocs\\SandyDocs.Client\\SandyDocs.Client.csproj",
+  "projectFilePath": "C:\\Users\\erics\\source\\repos\\Sandy\\SandyDocs\\SandyDocs.Client\\SandyDocs.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\erics\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.12\\microsoft.aspnetcore.app.internal.assets.10.0.12.nupkg.sha512",
     "C:\\Users\\erics\\.nuget\\packages\\microsoft.aspnetcore.authorization\\10.0.12\\microsoft.aspnetcore.authorization.10.0.12.nupkg.sha512",

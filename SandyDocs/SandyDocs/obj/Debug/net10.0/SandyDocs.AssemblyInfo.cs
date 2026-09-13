@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SandyDocs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+77276b8bebab8e900df839b9f953d92ca1c07993")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+910e5ea47716cd2540b05f942722f11818b5a261")]
 [assembly: System.Reflection.AssemblyProductAttribute("SandyDocs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SandyDocs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

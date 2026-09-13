@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2/5Ru2jQENg=",
+  "dgSpecHash": "t4H6T9OPl7A=",
   "success": true,
-  "projectFilePath": "C:\\Users\\erics\\Documents\\Sandy\\SandyDocs\\SandyDocs\\SandyDocs.csproj",
+  "projectFilePath": "C:\\Users\\erics\\source\\repos\\Sandy\\SandyDocs\\SandyDocs\\SandyDocs.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\erics\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.12\\microsoft.aspnetcore.app.internal.assets.10.0.12.nupkg.sha512",
     "C:\\Users\\erics\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\10.0.12\\microsoft.aspnetcore.components.webassembly.10.0.12.nupkg.sha512",
