@@ -7,4 +7,18 @@
 /Sandy/bin/Debug/net10.0
 /Sandy/obj/Debug/net10.0
 /SandyDocs/SandyDocs/obj/Release/net10.0
+# Avoid tracking build outputs
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+
+# Avoid tracking visual studio / rider settings
 .vs/
+.idea/
+*.user
+*.suo
+
+# Avoid tracking browser/OS junk
+.DS_Store
+Thumbs.db
