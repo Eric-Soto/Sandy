@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="../Sandy.Tests/Sandy.Tests.csproj" Id="e5a6e7b2-8e1a-48b9-ad20-dd415eb3d62c" />
   <Project Path="../SandyDocs/SandyDocs.Client/SandyDocs.Client.csproj" />
   <Project Path="../SandyDocs/SandyDocs/SandyDocs.csproj" />
   <Project Path="Sandy.csproj" />
