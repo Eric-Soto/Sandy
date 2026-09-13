@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Sandy/.vs/Sandy/CopilotIndices/18.10.1181.45497
+/Sandy/.vs/Sandy.slnx
+/Sandy/bin/Debug/net10.0
+/Sandy/obj/Debug/net10.0
