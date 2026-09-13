@@ -1,0 +1,4 @@
+wwwroot\appsettings.Development.json
+wwwroot\appsettings.json
+C:\Users\erics\Documents\Sandy\SandyDocs\SandyDocs.Client\wwwroot\appsettings.Development.json
+C:\Users\erics\Documents\Sandy\SandyDocs\SandyDocs.Client\wwwroot\appsettings.json
